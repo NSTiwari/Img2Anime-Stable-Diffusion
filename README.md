@@ -1,2 +1,2 @@
 # Img2Anime Stable Diffusion
-This repository is an implementation of creating journal of anime pictures from your photo gallery using Stable Diffusion and captioning.
+This repository is an implementation of creating photo journal of anime pictures from your image gallery using Stable Diffusion XL Turbo and captioning using Gemini.
