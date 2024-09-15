@@ -1,2 +1,5 @@
 # Img2Anime Stable Diffusion
-This repository is an implementation of creating photo journal of anime pictures from your image gallery using Stable Diffusion XL Turbo and captioning using Gemini.
+
+Do you have a large collection of photos on your phone but struggle to organize your memories?
+
+This project allows you to transform your images into anime-style illustrations using Stable Diffusion XL Turbo and add captions with Gemini, helping you create a unique photo journal.
